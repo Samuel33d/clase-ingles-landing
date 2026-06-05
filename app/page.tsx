@@ -1,14 +1,14 @@
 // ─── Placeholders — reemplaza antes de lanzar ───────────────────────────────
-const WHATSAPP_LINK  = '#whatsapp'           // enlace real del Canal de WhatsApp
+const WHATSAPP_LINK  = 'https://wa.me/584127010996'
 const YOUTUBE_ID     = 'VIDEO_ID'            // ID del video de YouTube
-const PAGO_MOVIL_NUM = '[04XX-XXXXXXX]'
+const PAGO_MOVIL_NUM = '0412-7010996'
 const PAGO_MOVIL_BANCO = '[Banco]'
 const PAGO_MOVIL_CI  = '[V-XXXXXXXX]'
 const ZELLE_EMAIL    = '[correo@email.com]'
-const ZELLE_NOMBRE   = '[Nombre Apellido]'
+const ZELLE_NOMBRE   = 'Lucero Linares'
 const BINANCE_ID     = '[Binance ID]'
-const PROF_NOMBRE    = 'Nombre de la Profesora'
-const PROF_INICIALES = 'NP'
+const PROF_NOMBRE    = 'Lucero Linares'
+const PROF_INICIALES = 'LL'
 const FECHA_HORA     = '[FECHA Y HORA]'
 // ─────────────────────────────────────────────────────────────────────────────
 
@@ -182,13 +182,13 @@ export default function Home() {
                 {PROF_NOMBRE}
               </h2>
               <p className="text-[#555] text-lg leading-relaxed">
-                Especialista en inglés corporativo con más de [X] años ayudando
-                a profesionales venezolanos a comunicarse con confianza en
-                entornos internacionales.
+                Profesora de inglés corporativo en Caracas. Ayuda a profesionales
+                a perder el miedo al idioma y a comunicarse con seguridad en
+                reuniones, correos y llamadas internacionales.
               </p>
               <p className="text-[#555] text-lg leading-relaxed mt-3">
-                Ha entrenado equipos en Caracas y LATAM que necesitan el inglés
-                como herramienta de trabajo real, no de examen.
+                Su método está pensado para personas que ya tienen un trabajo
+                y necesitan el inglés como herramienta real, no para pasar un examen.
               </p>
             </div>
           </div>
