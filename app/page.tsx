@@ -1,5 +1,5 @@
 // ─── Placeholders — reemplaza antes de lanzar ───────────────────────────────
-const WHATSAPP_LINK  = 'https://wa.me/584127010996'
+const WHATSAPP_LINK  = 'https://wa.me/584127010996?text=Hola%20Lucero%2C%20vi%20la%20clase%20gratuita%20de%20ingl%C3%A9s%20para%20el%20trabajo%20y%20quiero%20reservar%20mi%20cupo.'
 const YOUTUBE_ID     = 'VIDEO_ID'            // ID del video de YouTube
 const PAGO_MOVIL_NUM = '0412-7010996'
 const PAGO_MOVIL_BANCO = '[Banco]'
